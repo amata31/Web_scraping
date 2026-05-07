@@ -30,7 +30,7 @@ Web scraping and data collection techniques like these are widely used in:
 
 ## 📂 Project Structure  
 Web_scraping/
-│── revenuedata.ipynb
+│── RevenueData.ipynb
 │── README.md
 
 
